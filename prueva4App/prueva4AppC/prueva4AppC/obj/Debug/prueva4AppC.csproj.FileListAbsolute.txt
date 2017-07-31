@@ -1,0 +1,9 @@
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\bin\Debug\prueva4AppC.exe.config
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\bin\Debug\prueva4AppC.exe
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\bin\Debug\prueva4AppC.pdb
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\obj\Debug\prueva4AppC.csprojResolveAssemblyReference.cache
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\obj\Debug\prueva4AppC.Form1.resources
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\obj\Debug\prueva4AppC.Properties.Resources.resources
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\obj\Debug\prueva4AppC.csproj.GenerateResource.Cache
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\obj\Debug\prueva4AppC.exe
+C:\Users\juxx\Documents\Visual Studio 2015\Projects\prueva4App\prueva4AppC\prueva4AppC\obj\Debug\prueva4AppC.pdb
